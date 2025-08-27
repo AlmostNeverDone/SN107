@@ -10,15 +10,15 @@ As part of the Week's "Securing Networks" lab, we completed a practical exercise
 
 <h2>Key Learning Outcomes 主要學習成果</h2>
 
-- <b>Installed ClamAV and its related graphical and mail scanning tools via Synaptic Package Manager. (使用 Synaptic 套件管理器安裝 ClamAV 及其相關圖形介面與郵件掃描工具)</b>
+* Installed ClamAV and its related graphical and mail scanning tools via Synaptic Package Manager. (使用 Synaptic 套件管理器安裝 ClamAV 及其相關圖形介面與郵件掃描工具)</b>
 
-- <b>Configured system PATH and modified the .profile file to ensure command availability across sessions. (設定系統 PATH 並修改 .profile 檔案，以確保命令在每次啟動虛擬機時皆可用)</b>
+* Configured system PATH and modified the .profile file to ensure command availability across sessions. (設定系統 PATH 並修改 .profile 檔案，以確保命令在每次啟動虛擬機時皆可用)</b>
 
-- <b>Downloaded the EICAR test virus file to validate ClamAV's detection capabilities in a controlled, safe environment. (下載 EICAR 測試病毒檔案，以在受控安全的環境中驗證 ClamAV 的偵測能力)</b>
+* Downloaded the EICAR test virus file to validate ClamAV's detection capabilities in a controlled, safe environment. (下載 EICAR 測試病毒檔案，以在受控安全的環境中驗證 ClamAV 的偵測能力)</b>
 
-- <b>Performed manual virus scans using ClamAV to understand detection logs and scanning behavior. (使用 ClamAV 進行手動病毒掃描，以瞭解其偵測日誌與掃描行為)</b>
+* Performed manual virus scans using ClamAV to understand detection logs and scanning behavior. (使用 ClamAV 進行手動病毒掃描，以瞭解其偵測日誌與掃描行為)</b>
 
-- <b>Set up an automated daily virus scan on the home directory via crontab (scheduled at 1:35 AM).(透過 crontab 排程功能，設定每天凌晨 1:35 自動掃描使用者主目錄)</b>
+* Set up an automated daily virus scan on the home directory via crontab (scheduled at 1:35 AM).(透過 crontab 排程功能，設定每天凌晨 1:35 自動掃描使用者主目錄)</b>
 
 <h2>Security and Administrative Implications 資安與系統管理層面涵義</h2>
 
