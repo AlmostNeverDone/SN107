@@ -3,9 +3,9 @@
 
 <h2>Outline 簡介</h2>
 
-This project demonstrates how to install, configure, and test the ClamAV antivirus software in a controlled Linux VM environment. The lab includes installing ClamAV with GUI tools, scanning files with the EICAR test virus, and configuring scheduled scans with Crontab.
+This project demonstrates how to install, configure, and test the ClamAV antivirus software in a Kali Linux environment. The lab includes installing ClamAV using command-line tools, scanning files with the EICAR test virus, and configuring scheduled scans with Crontab.
 
-本專案展示如何在 Linux VM 中安裝、設定並測試 ClamAV 防毒軟體，內容涵蓋透過圖形介面安裝 ClamAV、使用 EICAR 測試病毒檔進行掃描，以及利用 Crontab 安排排程掃描。
+本專案展示如何在 Kali Linux 環境中安裝、設定並測試 ClamAV 防毒軟體，內容涵蓋透過命令列安裝 ClamAV、使用 EICAR 測試病毒檔進行掃描，以及利用 Crontab 安排排程掃描。
 
 <h2>Key Learning Outcomes 主要學習成果</h2>
 
