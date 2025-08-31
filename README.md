@@ -38,17 +38,15 @@ This task introduced us to real-world cybersecurity practices and automated syst
 
 ---------
 
-<h2></h2>
-
 <h2>Tools and Concepts Covered 涵蓋工具與概念</h2>
 
 | Aspect <br/>(面向)       | Learning content and purpose <br/>(學習內容與目的)                           |
 | -------- | --------------------------------- |
-| System management <br/>(系統管理)     | Use Synaptic, modify `.profile`, set PATH <br/>(使用 Synaptic、修改 `.profile`、設定 PATH) |
-| Antivirus practice <br/>(防毒實務)     | Install ClamAV, antivirus test and manual scan <br/>(安裝 ClamAV、防毒測試與手動掃描)               |
-| Information security test <br/>(資安測試)     | Use a legitimate virtual virus (EICAR) to test the scanning effect <br/>(使用合法的虛擬病毒 (EICAR) 測試掃描效果)          |
-| Automated job management <br/>(自動化作業管理)  | Set up Cron tasks to perform scans regularly <br/>(設定 Cron 任務，定期執行掃描)                 |
-| Information security practical thinking <br/>(資訊安全實務思維) | Establish a general defense cycle for antivirus systems and strengthen operation and scheduling capabilities<br/>(建立防毒系統的一般防禦週期，強化操作與排程能力)           |
+| System management <br/>(系統管理)     | Use apt to install and manage software. <br/>(使用 apt 安裝與管理軟體) |
+| Antivirus practice <br/>(防毒實務)     | Install ClamAV, antivirus test and manual scan. <br/>(安裝 ClamAV、防毒測試與手動掃描)               |
+| Information security test <br/>(資安測試)     | Use the EICAR test virus to validate detection capability. <br/>(使用 EICAR 測試病毒驗證偵測能力)          |
+| Automated job management <br/>(自動化作業管理)  | Set up Cron tasks to perform scans regularly. <br/>(設定 Cron 任務，定期執行掃描)                 |
+| Information security practical thinking <br/>(資訊安全實務思維) | Establish a defense cycle for antivirus systems, combining operation with scheduling. <br/>(建立防毒系統的防禦週期，結合操作與排程)           |
 
 ---------
 
