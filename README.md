@@ -61,6 +61,7 @@ This task introduced us to real-world cybersecurity practices and automated syst
 
 [Tasks]
 * Install ClamAV (安裝ClamAV)</b>
+* Update Virus Database (更新病毒碼)</b>
 * Download EICAR Test Virus (下載 EICAR 測試病毒)</b>
 * Run ClamAV Scan (執行 ClamAV 掃描)</b>
 * Schedule Automatic Scans with Crontab (使用 Crontab 設定排程掃描)</b>
@@ -75,20 +76,20 @@ This task introduced us to real-world cybersecurity practices and automated syst
 <br />
 <br/>
 <br />
-<b>Task 2: Download EICAR Test Virus<br/>(下載 EICAR 測試病毒) </b><br/>
+<b>Task 2: Update Virus Database<br/>(更新病毒碼) </b><br/>
 <img src="https://i.imgur.com/6qAyuCc.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 * The text is displayed with bold and italic formatting (頁面會顯示粗體與斜體文字)<br/>
 * The DVWA reaction means that it fails to properly sanitize inputs and encode outputs, which lets browsers interpret HTML tags directly. <br/>This creates a risk of cross-site scripting (XSS).<br/>(DVWA 的反應意味著它未能正確過濾輸入和編碼輸出，導致瀏覽器直接解釋 HTML 標籤，從而存在跨站腳本 (XSS) 風險)</b>
 <br/>
 <br />
-<b>Task 3: Run ClamAV Scan<br/>(執行 ClamAV 掃描) </b><br/>
+<b>Task 3: Download EICAR Test Virus<br/>(下載 EICAR 測試病毒) </b><br/>
 <img src="https://i.imgur.com/ROB9bQr.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 * An alert box immediately shows the session cookie, but even if you leave the page and return again, the script will still be valid. <br/>(警告框會立即顯示會話 cookie，但即使離開該頁面並再次返回，腳本仍然有效)</b>
 <br/>
 <br />
-<b>Task 4: Schedule Automatic Scans with Crontab<br/>(使用 Crontab 設定排程掃描) </b><br/>
+<b>Task 4: Run ClamAV Scan (執行 ClamAV 掃描) </b><br/>
 <img src="https://i.imgur.com/PxD35yx.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 * Inject the same code and try to revisit the page. <br/>(注入相同的程式碼並嘗試重新訪問該頁面)<br/>
@@ -98,3 +99,13 @@ This task introduced us to real-world cybersecurity practices and automated syst
 
 ---------
 
+<h2>Results 成果展示</h2>
+
+The project successfully installed ClamAV on Kali Linux, validated its detection capability with the EICAR test virus, and configured automated scans with Crontab. This exercise highlights the practical integration of antivirus tools and the importance of scheduled scanning in maintaining a secure environment.
+
+本專案成功在 Kali Linux 上安裝 ClamAV，並透過 EICAR 測試病毒驗證其偵測能力，最後利用 Crontab 設定自動化掃描。此實作凸顯防毒工具的實務整合，以及例行掃描在維護安全環境中的重要性。
+
+
+<h2>Reference 參考</h2>
+
+[UniSQ] [CSC8520 - Securing Networks](https://handbook-guide.unisq.edu.au/course/2025/CSC8520)
