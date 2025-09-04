@@ -29,9 +29,7 @@ This task introduced us to real-world cybersecurity practices and automated syst
 
 這項練習讓我們接觸到實際資安操作與系統維護自動化的流程。我們學會如何實作排程式防護機制，並透過指令列工具處理潛在威脅，這些都是專業 IT 環境中不可或缺的技能。
 
----------
 
-<h2>Tools and Concepts Covered 涵蓋工具與概念</h2>
 
 | Aspect <br/>(面向)       | Learning content and purpose <br/>(學習內容與目的)                           |
 | -------- | --------------------------------- |
